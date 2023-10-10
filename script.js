@@ -27,8 +27,8 @@ var campoX=0//Posição 'X' do campo.
 var campoY=0//Posição 'Y' do campo.
 var campoW=960//Largura do campo.
 var campoH=500//Altura do campo.
-var barraW=20//Largura da barra.
-var barraH=140//Altura da barra.
+var barraW=30//Largura da barra.
+var barraH=180//Altura da barra.
 var bolaW=20//Largura da bola.
 var bolaH=20//Alltura da bola.
 
